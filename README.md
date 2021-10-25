@@ -6,3 +6,5 @@ Modules,Tooling and Functional
 ## 2. The Module Pattern
 
 ## 3. CommonJS Modules
+
+## 4. NPM, Parcel and Babel
