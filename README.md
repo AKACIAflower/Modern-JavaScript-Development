@@ -8,3 +8,5 @@ Modules,Tooling and Functional
 ## 3. CommonJS Modules
 
 ## 4. NPM, Parcel and Babel
+
+## 5. Writing Clean and Modern JavaScript
