@@ -10,3 +10,5 @@ Modules,Tooling and Functional
 ## 4. NPM, Parcel and Babel
 
 ## 5. Writing Clean and Modern JavaScript
+
+## 6. Declarative and Functional JavaScript Principles
